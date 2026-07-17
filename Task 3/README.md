@@ -92,8 +92,3 @@ CarDekho Used Car Dataset
 
 **Aarush Tyagi**
 
-BCA (AI & Data Science)
-
-K.R. Mangalam University
-
----
